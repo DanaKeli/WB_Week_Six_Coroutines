@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WB_Week_Six_Coroutines</string>
+    <string name="btnHandler">Handler</string>
+    <string name="btn_coroutines">Coroutines</string>
+    <string name="btn_flow">Flow</string>
+    <string name="pi">Pi = 3,1415...</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_reset">Reset</string>
+    <string name="default_time">00:00:00</string>
+</resources>
